@@ -11,13 +11,24 @@ License
 Features
 
 
-List of key features of the project
+**List of key features of the project**
+View all stock - will show a table of all catalogued shoes
+Re-stock - update selected stock item
+Search shoe - search for shoe based on id
+Total value per item - product of shoe quantity and and value
+hightest quantity  - returns shoe item with largest quantity
+add shoe - add new shoe to inventory
+
+![image](https://user-images.githubusercontent.com/68587848/219953304-7007faab-a3c7-469b-8e80-ac0d3439f1dc.png)
 
 
 **Installation**
 
 Instructions on how to install and configure the project
-Run file as a python script in IDE
+Ensure you have both inventory.py and inventory.txt file on your working directory
+The inventory.txt file is formatted to allow reading from the python script
+Run file as a python script in IDE or from cmd terminal
+Ensure you have a the tabulate module downloadeed
 
 **Usage:**
 
